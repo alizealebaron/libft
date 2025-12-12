@@ -39,7 +39,7 @@ La librairie libft servira de base pour tous les projets futurs. Elle doit être
 
 Créer une librairie personnalisée, efficace et réutilisable, qui respecte les contraintes de l’école (norme, interdiction de certaines fonctions, etc.). Le but est aussi d’acquérir une autonomie technique et une rigueur dans l’écriture du code.
 
-## Inspirations & Sources
+## 💡 Inspirations & Sources
 
 - [42-cursus.gitbook.io/guide/0-rank-00/libft](https://42-cursus.gitbook.io/guide/0-rank-00/libft)
 
