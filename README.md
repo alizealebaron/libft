@@ -32,9 +32,11 @@ Il nous permet de comprendre en profondeur le fonctionnement des fonctions essen
 C’est l’un des premiers projets du cursus 42, et il est obligatoire pour progresser. Il n’y a pas de moulinette automatique pour valider toutes les fonctions, ce qui nous pousse à tester rigoureusement notre code et à anticiper les cas limites.
 
 **📦 Intégration et réutilisation**
+
 La librairie libft servira de base pour tous les projets futurs. Elle doit être modulaire, facile à compiler et à intégrer dans d’autres programmes. Cela implique de maîtriser les Makefiles et la gestion des dépendances.
 
 **🏆 Objectif final**
+
 Créer une librairie personnalisée, efficace et réutilisable, qui respecte les contraintes de l’école (norme, interdiction de certaines fonctions, etc.). Le but est aussi d’acquérir une autonomie technique et une rigueur dans l’écriture du code.
 
 ## Inspirations & Sources
