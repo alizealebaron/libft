@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/alizealebaron/alizealebaron/tree/main/assets/libft_bonus.png" width="150"/>
+  <img src="https://github.com/alizealebaron/alizealebaron/blob/main/assets/libft_bonus.png" width="150"/>
 </p>
 <h3 align="center">
   <em>Your very first own library</em>
